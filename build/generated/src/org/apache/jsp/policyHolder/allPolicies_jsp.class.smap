@@ -1,0 +1,14 @@
+SMAP
+allPolicies_jsp.java
+JSP
+*S JSP
+*F
++ 0 allPolicies.jsp
+policyHolder/allPolicies.jsp
+*L
+1,98:51
+99:149,3
+100,2:152
+102:154,3
+103,141:157
+*E
